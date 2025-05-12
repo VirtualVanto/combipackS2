@@ -1,0 +1,4 @@
+hideDebugInfoInSurvival = true
+showYCoordinate = true
+obfuscateCompassIfNotOverworld = false
+obfuscateClockIfNotOverworld = true
