@@ -181,18 +181,6 @@ file = "config/biomesoplenty/generation.toml"
 hash = "428c8be557854161e82b21b5654d2865b9b0c53bba969f20398568f94d4ae030"
 
 [[files]]
-file = "config/biomeswevegone/mob_spawn.json"
-hash = "b84dc298e495d19eb4b4c19482fac644aee55414b7e6e4bb1ea238de989e7970"
-
-[[files]]
-file = "config/biomeswevegone/trades.json"
-hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
-
-[[files]]
-file = "config/biomeswevegone/world_generation.json5"
-hash = "80faff344b56109ac6b6e85e354a17b90cb6cd4f76f2728b662bc2372cbb44cd"
-
-[[files]]
 file = "config/brewinandchewin-client.toml"
 hash = "d9dcb96e592b978b26aa41bf941d2f22bdb731b357934b8edbcd717d1df03131"
 
@@ -3502,7 +3490,7 @@ hash = "c54f132f1def2a3258b9cad22195f7e28cb365056eb005a96445d8e628dda073"
 
 [[files]]
 file = "config/paxi/resourcepacks/Combi-Craft/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "e03b0628c5ef50835a49bb6f9c61c54801a7adc9b3d80db1fe518a1efe6943fa"
+hash = "a7ee99b83d3d933daa54cc47bc883b0638540b3dece6a3c6f33c0c171e3cddcf"
 
 [[files]]
 file = "config/paxi/resourcepacks/Combi-Craft/pack.mcmeta"
@@ -4642,7 +4630,3 @@ metafile = true
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "c4cc96a288159b982064217de49bd058ae928afbb06079f5d91d9ef4b1a71ebd"
