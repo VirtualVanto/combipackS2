@@ -4525,11 +4525,6 @@ hash = "f9e13b44a817b078be83092f2a5e4aa3dc13bcce428101b52159a2703798a1ed"
 metafile = true
 
 [[files]]
-file = "mods/the-bumblezone-forge.pw.toml"
-hash = "2d1b2739b93d4d8e221db0fe2c751921ec3687b61e5ef139bec7e4ed32bcf521"
-metafile = true
-
-[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
 metafile = true
