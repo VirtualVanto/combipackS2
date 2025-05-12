@@ -1,0 +1,13 @@
+name = "[Cobblemon] BadgeBox"
+filename = "badgebox-neoforge-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3897b81a3f7ca553dd1c3d89d209756875ad9b8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6066465
+project-id = 1034908

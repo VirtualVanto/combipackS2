@@ -1,0 +1,13 @@
+name = "Biolith"
+filename = "biolith-neoforge-3.0.2-beta.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6651cbd032027fe10ed691c191fdd1e36ffc38de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6432220
+project-id = 852512

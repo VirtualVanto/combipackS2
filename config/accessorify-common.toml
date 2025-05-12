@@ -1,0 +1,10 @@
+clockAccessory = true
+compassAccessory = true
+recoveryCompassAccessory = true
+calendarAccessory = true
+elytraAccessory = true
+spyglassAccessory = false
+totemOfUndyingAccessory = true
+enderChestAccessory = false
+shulkerBoxAccessory = false
+arrowAccessory = false

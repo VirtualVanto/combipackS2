@@ -1,0 +1,13 @@
+name = "Leather Craft"
+filename = "leather_craft-1.3.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f731f4ac3da777d3bf64df082a6eef5c26750d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5741452
+project-id = 624669

@@ -1,0 +1,13 @@
+name = "Hearty Meals"
+filename = "heartymeals-1.21-r5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3f142c00a95fa889d94dc477ad22c5835cdbe50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812965
+project-id = 968970

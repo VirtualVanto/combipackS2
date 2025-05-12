@@ -1,0 +1,111 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enable entities light source.
+	entities = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+			[light_sources.settings.entities.minecraft]
+				bee = true
+				axolotl = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				frog = true
+				hoglin = true
+				armadillo = true
+				rabbit = true
+				silverfish = true
+				armor_stand = true
+				drowned = true
+				dolphin = true
+				item = true
+				turtle = true
+				shulker = true
+				wither_skeleton = true
+				piglin_brute = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				phantom = true
+				ender_dragon = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				donkey = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				ender_pearl = true
+				ghast = true
+				sheep = true
+				player = true
+				wolf = true
+				villager = true
+				tnt_minecart = true
+				zombie_villager = true
+				polar_bear = true
+				strider = true
+				falling_block = true
+				painting = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+
+			[light_sources.settings.entities.irons_spellbooks]
+				dead_king_corpse = true
+				priest = true
+				cursed_armor_stand = true
+				necromancer = true
+
+			[light_sources.settings.entities.tide]
+				tuna = true
+				ocean_perch = true
+				bluegill = true
+				pike = true
+				trout = true
+				barracuda = true
+				guppy = true
+				clayfish = true
+				catfish = true
+				mackerel = true
+				bass = true
+				sailfish = true
+				yellow_perch = true
+				mint_carp = true
+
+			[light_sources.settings.entities.phantasm]
+				crystie = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.rctmod]
+				trainer_association = true
+				trainer = true
+
+			[light_sources.settings.entities.cobblemon]
+				pokemon = true
