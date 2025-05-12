@@ -3657,30 +3657,6 @@ file = "config/terrablender.toml"
 hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
 
 [[files]]
-file = "config/the_bumblezone/bee_aggression.toml"
-hash = "8a4a1dc4ae91de0aee98878ecbcb75f04bcebd84f478e65d4c0e5039449a3acc"
-
-[[files]]
-file = "config/the_bumblezone/client.toml"
-hash = "2919d4dbe9377c2c9ded90374de735ec82cc79f67b77ed1607949d858265fa40"
-
-[[files]]
-file = "config/the_bumblezone/dimension.toml"
-hash = "bf651b4809d3d3f23221be4d2c0f05a3011e8aab83ab726e07a9867da13ac1f8"
-
-[[files]]
-file = "config/the_bumblezone/general.toml"
-hash = "e5f6b202a6800d8f12f86663ff82b3c3ab2df6b54cfe12a06b349e1619da327c"
-
-[[files]]
-file = "config/the_bumblezone/mod_compatibility.toml"
-hash = "218925695e5db0654b018a60c684995241d9447fb92bbeea50b0d9ea62b8e2fe"
-
-[[files]]
-file = "config/the_bumblezone/worldgen.toml"
-hash = "966a526899953cf567988682f661917dffe358fcd51815866f840d9ca19bbef9"
-
-[[files]]
 file = "config/tide.toml"
 hash = "f50cccb252bb90169e7deb804bc9552d61e28968f3ae5c0bce556bbaf1f488b0"
 
